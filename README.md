@@ -1,2 +1,2 @@
 # quizapp
-Creating quizzes in terminal
+Creating quizzes in console
